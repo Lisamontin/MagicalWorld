@@ -1,3 +1,3 @@
 let myDiv = document.getElementById('myDiv');
 
-myDiv.innerHTML = 'This is Jenseimon\'s div now';
+myDiv.innerHTML = 'This world is made to create magic';
