@@ -1,3 +1,9 @@
-let myDiv = document.getElementById('myDiv');
 
-myDiv.innerHTML = 'This world is made to create magic';
+function setup(){
+    createCanvas(400, 400);
+}
+
+function draw(){
+    ellipse(200, 200, 150, 180);
+}
+
